@@ -2,7 +2,7 @@ class Openfst < Formula
   desc "Open-source library for working with weighted finite-state transducers."
   homepage "http://www.openfst.org/"
   url "http://www.openfst.org/twiki/pub/FST/FstDownload/openfst-1.8.2.tar.gz"
-  sha256 "85031ee2052dcc7c4f2f7d224599ba6467481168e36df515edd44aa4fa6de0de"
+  sha256 "b213c11219466c2ad5ca7b86bb858626f2f273cb346825fe22891e9630125607"
 
   depends_on "zlib" unless OS.mac?
 
